@@ -6,8 +6,8 @@ Libraries:
 🧠«List of neuroscience-related RSS feeds,  
 with focus on peer-reviewed articles on BCI/EEG».  
 
-Thank eegdude for the RSS list: [gist.github.com/eegdude](gist.github.com/eegdude)👏  
-You can use Feeder.co: [github.com/nibezo/BCI-RSS-list](github.com/nibezo/BCI-RSS-list)
+Thank eegdude for the RSS list: [gist.github.com/eegdude](https://gist.github.com/eegdude/81fc1dbf7473f83d31750c55d5bbd510)👏  
+You can use Feeder.co: [github.com/nibezo/BCI-RSS-list](https://github.com/nibezo/BCI-RSS-list)
 
-📰Telegram channel: [@neurorss](https://www.t.me/neurorss"@neurorss")   
-🤖Telegram bot: [@neurorssbot](https://www.t.me/neurorss"@neurorssbot")
+📰Telegram channel: [@neurorss](https://t.me/neurorss"@neurorss")   
+🤖Telegram bot: [@neurorssbot](https://t.me/neurorssbot"@neurorssbot")
