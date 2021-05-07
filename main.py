@@ -1,10 +1,11 @@
 from telegram.ext import *
 import Constants as keys
+import RSS
 
 print("Start..")
 
 
-def make_msg(article_name, description, article_link, rss_from, msg):
+def msg_dsg(article_name, description, article_link, rss_from, msg):
     """Make message design."""
     msg = article_name + "\n" + "\n" + description + "\n" + "\n" + rss_from + "\n" + article_link
     return msg
